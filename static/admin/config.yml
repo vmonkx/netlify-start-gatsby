@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: vmonkx/netlify-start-gatsby
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
